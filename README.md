@@ -1,4 +1,5 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/color-modes-contrast-55dbfcae56ba.css">
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js">
 
 ### Hi there 👋
 
@@ -26,9 +27,10 @@
 
 <hr></hr>
 
+<p><strong>Status:</strong></p>
 <p align="left"> 
-    <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=yuu30-dev&theme=radical&show_icons=true&count_private=true&hide_border=true" />
-  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu30-dev&theme=radical&count_private=true&hide_border=true" />
+    <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=yuu30-dev&theme=buefy&show_icons=true&count_private=true" />
+  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu30-dev&theme=buefy&count_private=true&layout=compact" />
 </p>
 
 <!--
