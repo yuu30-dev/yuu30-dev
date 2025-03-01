@@ -5,13 +5,6 @@
   <p>Hi there 👋 I'm a frontend engineer.</p>
 </div>
 
-<hr></hr>
-
-<p><strong>Status:</strong></p>
-<p align="left"> 
-    <img alt="github stats" height="190px" src="https://github-readme-stats-9gonorf46-yuu30-dev.vercel.app/api?username=yuu30-dev&theme=buefy&show_icons=true&count_private=true" />
-</p>
-
 <!--
 **yuu30-dev/yuu30-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
